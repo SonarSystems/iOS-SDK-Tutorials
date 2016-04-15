@@ -5,15 +5,15 @@
     Connect To URL
     <ol>
       <li>
-        URL Connection
+        URL Connection - https://youtu.be/1GLs3rF1cOY
       </li>
       
       <li>
-        GET & POST Data
+        GET & POST Data - https://youtu.be/NeYAwB6C4A0
       </li>
       
       <li>
-        Parse JSON Array
+        Parse JSON Array - https://youtu.be/6Akuy4KZz64
       </li>
     </ol>
   </li>
