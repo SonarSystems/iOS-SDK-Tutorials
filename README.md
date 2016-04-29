@@ -17,4 +17,17 @@
       </li>
     </ol>
   </li>
+  
+  <li>
+    Light Status Bar
+    <ul>
+      <li>
+        Objective-C - https://youtu.be/1GLs3rF1cOY
+      </li>
+      
+      <li>
+        Swift - https://youtu.be/NeYAwB6C4A0
+      </li>
+    </ul>
+  </li>
 </ul>
