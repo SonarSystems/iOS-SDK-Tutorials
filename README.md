@@ -22,11 +22,11 @@
     Light Status Bar
     <ul>
       <li>
-        Objective-C - coming soon
+        Objective-C - https://youtu.be/nbGdLS_KIwo
       </li>
       
       <li>
-        Swift - coming soon
+        Swift - https://youtu.be/RdBZyuuJvSg
       </li>
     </ul>
   </li>
